@@ -1,0 +1,19 @@
+<!DOCTYPE html>
+<html lang="pl-pl">
+<head>
+    <meta charset="UTF-8">
+    <title>{% block title %}{% endblock %}</title>
+    <link href="{% static "css/base.css" %}" rel="stylesheet">
+</head>
+<body>
+<header id="header">
+    <span class="logo">Bookmarks</span>
+    <main id="content">
+        {% block content %}
+
+
+        {% endblock %}
+    </main>
+</header>
+</body>
+</html>

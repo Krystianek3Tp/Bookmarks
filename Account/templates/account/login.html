@@ -1,0 +1,12 @@
+{% extends "base.html" %}
+{% block title %}
+{% endblock %}
+
+{% block content %}
+    <h1>Logowanie</h1>
+    <p>Wypełnij pniższy formularz, aby się zalogować</p>
+    <form action="#" method="post">
+    {{ form.as_p }}
+    {% csrf_token %}
+    </form>
+{% endblock %}

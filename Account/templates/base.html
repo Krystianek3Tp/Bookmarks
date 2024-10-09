@@ -1,3 +1,4 @@
+{% load static %}
 <!DOCTYPE html>
 <html lang="pl-pl">
 <head>
@@ -7,13 +8,12 @@
 </head>
 <body>
 <header id="header">
-    <span class="logo">Bookmarks</span>
+    <span class="logo">Bookmarks</span></header>
     <main id="content">
         {% block content %}
 
-
         {% endblock %}
     </main>
-</header>
+
 </body>
 </html>

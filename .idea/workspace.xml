@@ -4,33 +4,7 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="772d40a5-a1b9-4826-b60f-df9501a8d98a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/../../KrystianHordyński/Bookmarks/.idea/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../KrystianHordyński/Bookmarks/.idea/Bookmarks.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../KrystianHordyński/Bookmarks/.idea/inspectionProfiles/profiles_settings.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../KrystianHordyński/Bookmarks/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../KrystianHordyński/Bookmarks/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../KrystianHordyński/Bookmarks/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../KrystianHordyński/Bookmarks/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../KrystianHordyński/Bookmarks/Account/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../KrystianHordyński/Bookmarks/Account/admin.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../KrystianHordyński/Bookmarks/Account/apps.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../KrystianHordyński/Bookmarks/Account/forms.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../KrystianHordyński/Bookmarks/Account/migrations/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../KrystianHordyński/Bookmarks/Account/models.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../KrystianHordyński/Bookmarks/Account/templates/account/login.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../KrystianHordyński/Bookmarks/Account/templates/account/static/css/base.css" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../KrystianHordyński/Bookmarks/Account/templates/base.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../KrystianHordyński/Bookmarks/Account/tests.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../KrystianHordyński/Bookmarks/Account/views.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../KrystianHordyński/Bookmarks/Bookmarks/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../KrystianHordyński/Bookmarks/Bookmarks/asgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../KrystianHordyński/Bookmarks/Bookmarks/settings.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../KrystianHordyński/Bookmarks/Bookmarks/urls.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../KrystianHordyński/Bookmarks/Bookmarks/wsgi.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../KrystianHordyński/Bookmarks/db.sqlite3" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/../../KrystianHordyński/Bookmarks/manage.py" afterDir="false" />
-    </list>
+    <list default="true" id="772d40a5-a1b9-4826-b60f-df9501a8d98a" name="Changes" comment="kodzik 07.10.24" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -47,6 +21,18 @@
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/../../KrystianHordyński/Bookmarks" />
   </component>
+  <component name="GitHubPullRequestSearchHistory"><![CDATA[{
+  "lastFilter": {
+    "state": "OPEN",
+    "assignee": "MrFajFel"
+  }
+}]]></component>
+  <component name="GithubPullRequestsUISettings"><![CDATA[{
+  "selectedUrlAndAccountId": {
+    "url": "https://github.com/Krystianek3Tp/Bookmarks.git",
+    "accountId": "02d6d3b2-c448-496d-881a-40d54599d60a"
+  }
+}]]></component>
   <component name="ProjectColorInfo"><![CDATA[{
   "customColor": "",
   "associatedIndex": 8
@@ -121,11 +107,24 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1728295253707</updated>
-      <workItem from="1728295257681" duration="3752000" />
+      <workItem from="1728295257681" duration="3871000" />
     </task>
+    <task id="LOCAL-00001" summary="kodzik 07.10.24">
+      <option name="closed" value="true" />
+      <created>1728300259863</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1728300259863</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="kodzik 07.10.24" />
+    <option name="LAST_COMMIT_MESSAGE" value="kodzik 07.10.24" />
   </component>
 </project>

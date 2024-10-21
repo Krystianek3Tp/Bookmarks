@@ -4,12 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="772d40a5-a1b9-4826-b60f-df9501a8d98a" name="Changes" comment="kodzik 09.10.24">
+    <list default="true" id="772d40a5-a1b9-4826-b60f-df9501a8d98a" name="Changes" comment="kodzik 16.10.24">
+      <change afterPath="$PROJECT_DIR$/../../KrystianHordyński/Bookmarks/Account/templates/account/dashboard.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KrystianHordyński/Bookmarks/Account/templates/registration/logged_out.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/../../KrystianHordyński/Bookmarks/Account/templates/registration/login.html" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../KrystianHordyński/Bookmarks/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/../../KrystianHordyński/Bookmarks/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../KrystianHordyński/Bookmarks/Account/forms.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../KrystianHordyński/Bookmarks/Account/forms.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../KrystianHordyński/Bookmarks/Account/urls.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../KrystianHordyński/Bookmarks/Account/urls.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/../../KrystianHordyński/Bookmarks/Account/views.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../KrystianHordyński/Bookmarks/Account/views.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/../../KrystianHordyński/Bookmarks/db.sqlite3" beforeDir="false" afterPath="$PROJECT_DIR$/../../KrystianHordyński/Bookmarks/db.sqlite3" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../../KrystianHordyński/Bookmarks/Bookmarks/settings.py" beforeDir="false" afterPath="$PROJECT_DIR$/../../KrystianHordyński/Bookmarks/Bookmarks/settings.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -19,8 +21,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="HTML File" />
         <option value="Python Script" />
+        <option value="HTML File" />
       </list>
     </option>
   </component>
@@ -111,7 +113,8 @@
       <updated>1728295253707</updated>
       <workItem from="1728295257681" duration="3871000" />
       <workItem from="1728454483255" duration="1787000" />
-      <workItem from="1729058792644" duration="2221000" />
+      <workItem from="1729058792644" duration="2335000" />
+      <workItem from="1729503580867" duration="5079000" />
     </task>
     <task id="LOCAL-00001" summary="kodzik 07.10.24">
       <option name="closed" value="true" />
@@ -137,7 +140,15 @@
       <option name="project" value="LOCAL" />
       <updated>1728456238153</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="kodzik 16.10.24">
+      <option name="closed" value="true" />
+      <created>1729061065224</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1729061065224</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -147,6 +158,7 @@
     <MESSAGE value="kodzik 07.10.24" />
     <MESSAGE value="kodzik 08.10.24" />
     <MESSAGE value="kodzik 09.10.24" />
-    <option name="LAST_COMMIT_MESSAGE" value="kodzik 09.10.24" />
+    <MESSAGE value="kodzik 16.10.24" />
+    <option name="LAST_COMMIT_MESSAGE" value="kodzik 16.10.24" />
   </component>
 </project>
